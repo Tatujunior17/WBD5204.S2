@@ -7,14 +7,14 @@
   },
 
   "post2" : {
-    "name" : "Lorem ipsum 2",
+    "Titre" : "Lorem ipsum 2",
     "Body" : "gf lfjdjgldfhugdfgdfg",
     "Commentaire" : "Ceci est un commentaire mon ami",
     "id": 2
   },
 
   "post3" : {
-    "name" : "Lorem ipsum 3",
+    "Titre" : "Lorem ipsum 3",
     "Body" : "zusg hkhks d fhg kjsfhg kdfh",
     "Commentaire" : "Ceci est un commentaire",
     "id": 3
